@@ -1,0 +1,14 @@
+body {
+  background-color: #10324d;
+  /* background-color: rgba(183, 180, 230, 0.938); */
+}
+
+body .column {
+  padding-left: 0%;
+  padding-right: 0%;
+}
+
+body #container {
+  display: table;
+  width: 100%;
+}
